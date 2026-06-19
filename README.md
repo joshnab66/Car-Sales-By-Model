@@ -17,8 +17,9 @@ Two hands-on assignments completed for Module 4 of *Data Visualization and Dashb
 
 ### Charts
 ![Profit by Date and Model](./profit-by-data-and-model.png)
-![Profit by Year and Dealer](./profit-by-year-and-dealer%20(3).png)
+![Profit by Year and Dealer](./profit-by-year-and-dealer.png)
 ![Profit Hudson by Dealer](./profit-hudson-by-dealer.png)
+![Profit Hudson by Dealer](./quantity-sold-by-dealer.png)
 ## Certificate
 Course 3: Data Visualization and Dashboards with Excel and Cognos Analytics — IBM Data Analyst Professional Certificate
 Credential ID:EK7W1W2UH9QS
